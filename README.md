@@ -4,7 +4,7 @@ This project is a way to provision a basic EC2 with variables on AWS using Terra
 
 ## Credentials on AWS
 
-Use this [article](https://amaurybsouza.medium.com/terraform-e364f5d31570) to create your credentials at AWS.
+Use this [article](https://amaurybsouza.medium.com/terraform-e364f5d31570) to get your credentials have crated at AWS.
 
 ## Usage
 
